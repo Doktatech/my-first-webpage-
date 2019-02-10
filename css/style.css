@@ -1,14 +1,13 @@
 
 h1{color: blue;
-  text-align: left;
-  font-family: serif;
+  text-align: center;
+
 }
 h2{
   color: green;
   font-style: italic;
-  text-align: left;
-  background-color: yellow;
-  font-size: 40px;
+  text-align: center;
+
 }
 p{
   font-family: sans-serif;
